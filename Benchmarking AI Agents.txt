@@ -11,3 +11,20 @@ OR
 Benchmarking AI agents means testing different AI agents to see which one performs better for a specific task.
 We compare their accuracy, speed, cost, and response quality using the same test cases.
 This helps companies choose the most efficient and reliable AI solution for their business needs.
+
+## Question: Why do companies use benchmarking for AI agents?
+
+### Answer:
+
+Companies use AI agent benchmarking to compare different AI systems and find out which one gives better performance, faster responses, lower cost, and more accurate results.
+It helps companies choose the best AI solution for tasks like customer support, automation, data analysis, chatbots, and business operations.
+
+---
+
+## Question: What kind of projects are companies currently doing for AI agent benchmarking?
+
+### Answer:
+
+Right now, companies are building projects where they test multiple AI agents on real business tasks such as customer service chatbots, coding assistants, email automation, sales support, and AI research agents.
+They compare the agents using metrics like accuracy, response time, reasoning ability, and cost efficiency to improve productivity and business performance.
+
