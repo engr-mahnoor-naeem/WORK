@@ -5,3 +5,9 @@ ANSWER:
 Benchmarking AI agents means evaluating and comparing their performance on specific tasks using metrics like accuracy, speed, cost, and reliability.
 It involves creating test scenarios, running multiple AI agents on the same tasks, and measuring their results consistently.
 The goal is to identify which AI agent performs best for a particular use case or business requirement.
+
+OR 
+
+Benchmarking AI agents means testing different AI agents to see which one performs better for a specific task.
+We compare their accuracy, speed, cost, and response quality using the same test cases.
+This helps companies choose the most efficient and reliable AI solution for their business needs.
