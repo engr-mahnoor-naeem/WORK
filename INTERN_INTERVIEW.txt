@@ -353,3 +353,181 @@ A weak candidate:
 * Cannot explain projects deeply
 * Avoids technical details
 * Blames teammates for everything
+
+
+
+Got it — here is the **proper interview format (Question → Answer → Code → Output)** for all 5 coding logic questions.
+
+---
+
+# ✅ Example 1: Reverse a String
+
+### Question:
+
+Write Python code to reverse a string.
+
+### Answer (Logic):
+
+We can reverse a string using slicing in Python.
+
+### Code:
+
+```python
+text = "Hello"
+
+reversed_text = text[::-1]
+
+print(reversed_text)
+```
+
+### Output:
+
+```
+olleH
+```
+
+---
+
+# ✅ Example 2: Find Duplicate Numbers in a List
+
+### Question:
+
+Find duplicate numbers in a list.
+
+### Answer (Logic):
+
+We check how many times each number appears. If more than 1, it is a duplicate.
+
+### Code:
+
+```python
+numbers = [1, 2, 3, 2, 4, 5, 1]
+
+duplicates = []
+
+for num in numbers:
+    if numbers.count(num) > 1 and num not in duplicates:
+        duplicates.append(num)
+
+print(duplicates)
+```
+
+### Output:
+
+```
+[1, 2]
+```
+
+---
+
+# ✅ Example 3: Difference Between List and Tuple
+
+### Question:
+
+What is the difference between list and tuple?
+
+### Answer:
+
+* List is mutable (can change)
+* Tuple is immutable (cannot change)
+* List uses `[]`
+* Tuple uses `()`
+
+### Code:
+
+```python
+my_list = [1, 2, 3]
+my_tuple = (1, 2, 3)
+
+print(type(my_list))
+print(type(my_tuple))
+```
+
+### Output:
+
+```
+<class 'list'>
+<class 'tuple'>
+```
+
+---
+
+# ✅ Example 4: What is an API?
+
+### Question:
+
+What is an API?
+
+### Answer:
+
+API is a bridge between two applications that allows them to communicate and exchange data.
+
+### Code Example:
+
+```python
+import requests
+
+response = requests.get("https://api.example.com/data")
+
+print(response.status_code)
+```
+
+### Output:
+
+```
+200
+```
+
+---
+
+# ✅ Example 5: What happens when you train a model?
+
+### Question:
+
+What happens when you train a machine learning model?
+
+### Answer:
+
+A model learns patterns from data by adjusting its parameters to reduce errors over multiple iterations.
+
+### Code (Simple Concept Simulation):
+
+```python
+data = [1, 2, 3, 4]
+model_weight = 0
+
+for x in data:
+    prediction = x * model_weight
+    error = x - prediction
+    model_weight += 0.1  # learning step
+
+print(model_weight)
+```
+
+### Output:
+
+```
+0.4
+```
+
+---
+
+# ⭐ Interview Tip (Very Important)
+
+When you ask these questions, always check:
+
+* Logic (not memorization)
+* Explanation clarity
+* Code structure
+* Confidence in answering follow-ups
+
+---
+
+If you want, I can also give you:
+✔ Real NED AI interview MCQs
+✔ Advanced coding questions
+✔ Python viva questions
+✔ Machine Learning interview round questions
+
+Just tell me 👍
+
