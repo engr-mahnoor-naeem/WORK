@@ -8,3 +8,7 @@ I focus on creating efficient, scalable, and user-friendly solutions tailored to
 Let me introduce myself. My name is Mahnoor, and I am an AI and Software Engineer with 1 year of experience. I have worked on multiple projects in the fields of AI and software development. Currently, I am working on a WhatsApp chatbot project. I have also successfully developed and completed a website chatbot integration project for customer interaction and support.
 
 Now, please introduce yourself as well.
+
+OR
+
+I have also developed AI-powered chatbot solutions for websites to enhance customer engagement and support.
