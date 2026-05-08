@@ -1,1 +1,5 @@
+My name is Mahnoor, and I am a Software and AI Engineer.
 
+I specialize in Python and Flask API development, along with automation tools such as n8n, Make.com, and ClickUp. I have strong experience in building intelligent chatbots and developing full-stack web applications.
+On the frontend, I work with React, and on the backend, I have hands-on expertise with MySQL and PostgreSQL databases.
+I focus on creating efficient, scalable, and user-friendly solutions tailored to business needs.
