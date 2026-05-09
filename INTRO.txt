@@ -1,3 +1,7 @@
+My name is Mahnoor, and I hold a degree in Software Engineering. I am currently working as an AI Automation Engineer, where I specialize in designing and implementing intelligent automation solutions. My professional journey reflects a strong passion for technology and innovation, with a focus on leveraging AI to optimize processes. I am dedicated to continuous learning and growth in the field of artificial intelligence and automation.
+
+OR
+
 My name is Mahnoor, and I am a Software and AI Engineer.
 
 I specialize in Python and Flask API development, along with automation tools such as n8n, Make.com, and ClickUp. I have strong experience in building intelligent chatbots and developing full-stack web applications.
